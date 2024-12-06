@@ -69,7 +69,7 @@ Database: `Sqlite3`
 <br>
 
 ### Setup
-1. - Fork the [repo](https://github.com/Pavantext/Video-Chat)
+1. - Fork the [repo](https://github.com/Abishektext/Video-Chat)
    - Clone the repo to your local system
      
    ```git
