@@ -73,7 +73,7 @@ Database: `Sqlite3`
    - Clone the repo to your local system
      
    ```git
-   git clone https://github.com/Pavantext/Video-Chat.git
+   git clone https://github.com/Abishektext/Video-Chat.git
    cd VideoConference
    ```
    Make sure you have python installed on your system.
